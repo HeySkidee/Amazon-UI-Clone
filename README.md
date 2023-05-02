@@ -42,3 +42,5 @@ Create a new directory for your project.
 Use PyQt to create a new browser window.
 Load the web page into the browser window using the Chromium engine.
 From here, you can continue to add features such as tabbed browsing, bookmarks, and more using PyQt and Python.
+
+I know it's hard but I can make it.
